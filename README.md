@@ -58,6 +58,6 @@ xcopy /E /I /Y modules_forge dist\Line2Normalmap\modules_forge
 xcopy /E /I /Y repositories dist\Line2Normalmap\repositories
 xcopy /E /I /Y scripts dist\Line2Normalmap\scripts
 copy script.js dist\Line2Normalmap\script.js
-copy model_DL.cmd dist\Line2Normalmap\model_DL.cmd
+copy Line2Normalmap_model_DL.cmd dist\Line2Normalmap\Line2Normalmap_model_DL.cmd
 copy Line2Normalmap_ReadMe.txt dist\Line2Normalmap\Line2Normalmap_ReadMe.txt 
 ```
