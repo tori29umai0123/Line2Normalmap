@@ -45,6 +45,7 @@ xcopy /E /I /Y venv\Lib\site-packages\resize_right dist\Line2Normalmap\_internal
 xcopy /E /I /Y venv\Lib\site-packages\diffusers dist\Line2Normalmap\_internal\diffusers
 xcopy /E /I /Y venv\Lib\site-packages\onnx dist\Line2Normalmap\_internal\onnx
 xcopy /E /I /Y venv\Lib\site-packages\onnxruntime dist\Line2Normalmap\_internal\onnxruntime
+xcopy /E /I /Y venv\Lib\site-packages\scipy dist\Line2Normalmap\_internal\scipy
 xcopy /E /I /Y config_states dist\Line2Normalmap\config_states
 xcopy /E /I /Y configs dist\Line2Normalmap\configs
 xcopy /E /I /Y embeddings dist\Line2Normalmap\embeddings
